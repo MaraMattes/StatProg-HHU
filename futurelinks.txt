@@ -1,0 +1,14 @@
+
+
+* [Lecture 5](./lecture/l5/Lecture_5.html): Wrap-up
+
+
+dataset: 
+* [Tutorial 7](./tutorial/tutorial-7/tutorial_7.html) 
+dataset: 
+
+
+## Term Paper
+* [Information on Term Paper](./termpaper/termpaper_info.html)
+
+[General Information: Exam Registration, Timeline](./info/exam_info.html)
