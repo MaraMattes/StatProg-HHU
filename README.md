@@ -4,5 +4,8 @@
 
 ## Course 1: Lectures
 
+* [Lecture 1](./lecture/l1/Lecture_1.html): Introduction to Statistical Programming
+    - Dataset: [ict.csv](./data/ict.csv)
+
 
 ## Course 2: Tutorials
