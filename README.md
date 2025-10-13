@@ -1,6 +1,10 @@
 # Lecture Slides and Tutorials
 
-**The first lecture will take place on October 13. The tutorial will start on October 21.**
+**The first lecture will take place on October 13. The tutorial will start on October 20.**
+
+**On October 20, a tutorial will be held instead of a lecture. The tutorial on October 21 will take place as scheduled.**
+
+
 
 ## Course 1: Lectures
 
@@ -9,3 +13,4 @@
 
 
 ## Course 2: Tutorials
+* [Tutorial 1](./tutorial/tutorial-1/tutorial_1.ipynb)
