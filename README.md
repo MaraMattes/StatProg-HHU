@@ -18,3 +18,4 @@
 
 
 * [Tutorial 1](./tutorial/tutorial-1/tutorial_1.ipynb)
+    - Image: [wiki_list](./tutorial/tutorial-1/wiki_list.png)
