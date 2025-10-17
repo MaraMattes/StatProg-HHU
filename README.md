@@ -4,8 +4,6 @@
 
 **On October 20, a tutorial will be held instead of a lecture. The tutorial on October 21 will take place as scheduled.**
 
-
-
 ## Course 1: Lectures
 
 * [Lecture 1](./lecture/l1/Lecture_1.html): Introduction to Statistical Programming
@@ -16,6 +14,7 @@
 
 **Please note**: Clicking on a notebook link no longer starts the download automatically. Instead, hold the Alt key (or Option on Mac) and click the link to download the notebook directly. Alternatively, just click the notebook link and then use right-click -> ‘Save As…’ to download the notebook manually.
 
+**Before the tutorial, please make sure you have installed Anaconda Navigator and VS Code, and that you can run Jupyter Notebook, so you can start working on the exercises right away during the sessions on Monday and Tuesday.**
 
 * [Tutorial 1](./tutorial/tutorial-1/tutorial_1.ipynb)
     - Image: [wiki_list](./tutorial/tutorial-1/wiki_list.png)
