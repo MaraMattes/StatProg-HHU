@@ -14,7 +14,9 @@
 
 **Please note**: Clicking on a notebook link no longer starts the download automatically. Instead, hold the Alt key (or Option on Mac) and click the link to download the notebook directly. Alternatively, just click the notebook link and then use right-click -> ‘Save As…’ to download the notebook manually.
 
-**Before the tutorial, please make sure you have installed Anaconda Navigator and VS Code, and that you can run Jupyter Notebook, so you can start working on the exercises right away during the sessions on Monday and Tuesday.**
-
+**Introduction to Statistical Programming**
 * [Tutorial 1](./tutorial/tutorial-1/tutorial_1.ipynb)
     - Image: [wiki_list](./tutorial/tutorial-1/wiki_list.png)
+
+### Solutions 
+* [Solution Tutorial 1](./tutorial/tutorial-1/tutorial_1_solutions.ipynb)
