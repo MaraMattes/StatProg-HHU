@@ -1,8 +1,8 @@
 # Lecture Slides and Tutorials
 
-**The first lecture will take place on October 13. The tutorial will start on October 20.**
+The first lecture will take place on October 13. The tutorial will start on October 20.
 
-**On October 20, a tutorial will be held instead of a lecture. The tutorial on October 21 will take place as scheduled.**
+On October 20, a tutorial will be held instead of a lecture. The tutorial on October 21 will take place as scheduled.
 
 ## Course 1: Lectures
 
