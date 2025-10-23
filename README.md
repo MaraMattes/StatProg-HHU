@@ -18,5 +18,7 @@ On October 20, a tutorial will be held instead of a lecture. The tutorial on Oct
 * [Tutorial 1](./tutorial/tutorial-1/tutorial_1.ipynb)
     - Image: [wiki_list](./tutorial/tutorial-1/wiki_list.png)
 
+* [Tutorial 2](./tutorial/tutorial-2/tutorial_2.ipynb)
+
 ### Solutions 
 * [Solution Tutorial 1](./tutorial/tutorial-1/tutorial_1_solution.ipynb)
