@@ -2,6 +2,8 @@
 ## Exam Registration 
 Students of all *Prüfungsordnungen (PO, exam regulations)* are admitted to the exam.
 
+Please register for the exam in the Student Portal ([*Studierendenportal*](https://studierende.hhu.de)) during the registration period.
+
 ## Plan for the semester
 **Lectures** will take place until the **end of December**. **Tutorials** will continue until **January**.
 
