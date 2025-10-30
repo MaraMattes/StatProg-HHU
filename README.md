@@ -17,9 +17,7 @@ On October 20, a tutorial will be held instead of a lecture. The tutorial on Oct
 **Introduction to Statistical Programming**
 * [Tutorial 1](./tutorial/tutorial-1/tutorial_1.ipynb)
     - Image: [wiki_list](./tutorial/tutorial-1/wiki_list.png)
-
 * [Tutorial 2](./tutorial/tutorial-2/tutorial_2.ipynb)
-
 * [Tutorial 3](./tutorial/tutorial-3/tutorial_3.ipynb)
 
 ### Solutions 
