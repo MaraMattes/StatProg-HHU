@@ -31,4 +31,4 @@ On October 20, a tutorial will be held instead of a lecture. The tutorial on Oct
 
 ### Extra Exercises
 This Notebook contains additional exercises on object-orientated programming. These exercises are optional but recommended for those who wish to deepen their understanding. The exercises will not be discussed in the tutorial sessions.
-* [Bonus Tutorial](./tutorial/tutorial-bonus/tutorial_object_orientation.ipynb)
+* [Exercises Object Orientation](./tutorial/tutorial-bonus/tutorial_object_orientation.ipynb)
