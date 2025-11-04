@@ -8,6 +8,7 @@ On October 20, a tutorial will be held instead of a lecture. The tutorial on Oct
 
 * [Lecture 1](./lecture/l1/Lecture_1.html): Introduction to Statistical Programming
     - Dataset: [ict.csv](./data/ict.csv)
+* [Lecture 2](./lecture/l2/Lecture_2.html): Basics of Statistics
 
 
 ## Course 2: Tutorials
@@ -19,8 +20,15 @@ On October 20, a tutorial will be held instead of a lecture. The tutorial on Oct
     - Image: [wiki_list](./tutorial/tutorial-1/wiki_list.png)
 * [Tutorial 2](./tutorial/tutorial-2/tutorial_2.ipynb)
 * [Tutorial 3](./tutorial/tutorial-3/tutorial_3.ipynb)
+* [Tutorial 4](./tutorial/tutorial-4/tutorial_4.ipynb)
+    - Dataset: [brain_size.csv](./data/brain_size.csv) 
 
 ### Solutions 
 * [Solution Tutorial 1](./tutorial/tutorial-1/tutorial_1_solution.ipynb)
 * [Solution Tutorial 2](./tutorial/tutorial-2/tutorial_2_solution.ipynb)
 * [Solution Tutorial 3](./tutorial/tutorial-3/tutorial_3_solution.ipynb)
+
+
+### Extra Exercises
+This Notebook contains additional exercises on object-orientated programming. These exercises are optional but recommended for those who wish to deepen their understanding. The exercises will not be discussed in the tutorial sessions.
+* [Bonus Tutorial](./tutorial/tutorial-bonus/tutorial_object_orientation.ipynb)
