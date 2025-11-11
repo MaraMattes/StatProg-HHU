@@ -27,6 +27,7 @@ On October 20, a tutorial will be held instead of a lecture. The tutorial on Oct
 * [Solution Tutorial 1](./tutorial/tutorial-1/tutorial_1_solution.ipynb)
 * [Solution Tutorial 2](./tutorial/tutorial-2/tutorial_2_solution.ipynb)
 * [Solution Tutorial 3](./tutorial/tutorial-3/tutorial_3_solution.ipynb)
+* [Solution Tutorial 4](./tutorial/tutorial-4/tutorial_4_solution.ipynb)
 
 
 ### Extra Exercises
