@@ -22,6 +22,7 @@ On October 20, a tutorial will be held instead of a lecture. The tutorial on Oct
 * [Tutorial 3](./tutorial/tutorial-3/tutorial_3.ipynb)
 * [Tutorial 4](./tutorial/tutorial-4/tutorial_4.ipynb)
     - Dataset: [brain_size.csv](./data/brain_size.csv) 
+* [Tutorial 5](./tutorial/tutorial-5/tutorial_5.ipynb)
 
 ### Solutions 
 * [Solution Tutorial 1](./tutorial/tutorial-1/tutorial_1_solution.ipynb)
