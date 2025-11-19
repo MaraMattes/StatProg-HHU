@@ -9,6 +9,7 @@ On October 20, a tutorial will be held instead of a lecture. The tutorial on Oct
 * [Lecture 1](./lecture/l1/Lecture_1.html): Introduction to Statistical Programming
     - Dataset: [ict.csv](./data/ict.csv)
 * [Lecture 2](./lecture/l2/Lecture_2.html): Basics of Statistics
+* [Lecture 3](./lecture/l3/Lecture_3.html): Regression
 
 
 ## Course 2: Tutorials
@@ -23,6 +24,8 @@ On October 20, a tutorial will be held instead of a lecture. The tutorial on Oct
 * [Tutorial 4](./tutorial/tutorial-4/tutorial_4.ipynb)
     - Dataset: [brain_size.csv](./data/brain_size.csv) 
 * [Tutorial 5](./tutorial/tutorial-5/tutorial_5.ipynb)
+* [Tutorial 6](./tutorial/tutorial-6/tutorial_6.ipynb)
+    - Dataset: [lightbulb_lifetime.csv](./data/lightbulb_lifetime.csv) 
 
 ### Solutions 
 * [Solution Tutorial 1](./tutorial/tutorial-1/tutorial_1_solution.ipynb)
