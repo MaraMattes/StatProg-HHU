@@ -10,6 +10,7 @@ On October 20, a tutorial will be held instead of a lecture. The tutorial on Oct
     - Dataset: [ict.csv](./data/ict.csv)
 * [Lecture 2](./lecture/l2/Lecture_2.html): Basics of Statistics
 * [Lecture 3](./lecture/l3/Lecture_3.html): Regression
+* [Lecture 4](./lecture/l4/Lecture_4.html): Classification
 
 
 ## Course 2: Tutorials
