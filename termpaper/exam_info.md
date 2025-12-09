@@ -1,22 +1,22 @@
 # Exam - General information 
 
 The final grade is composed of two parts: 
-1. **Term paper in teams of 2**
+1. **Term paper in teams of 3**
     - 40% of grade
-    - Deadline: **January 26**
+    - Deadline: **January 26, 2026**
 2. **Individual oral exam (20 minutes)**
     - 60% of grade
-    - Dates: **February 2 and 3**
+    - Dates: **February 2 and 3, 2026**
 
-Please book your 60 minute slot per group until **January 22** here:\
-[link to the booking system](https://terminplaner6.dfn.de/b/6f76fa4e084ee7d1b37a7132619f79fe-1450306)
+Please book your 60 minute slot per group until **January 23, 2026** here:\
+[link will follow]
 
-Please note: Per group, only one time slot should be booked. The two individual oral exams will take place consecutively within the 40 minute slot.
+Please note: Per group, only one time slot should be booked. The three individual oral exams will take place consecutively within the 60 minute slot.
 
 # 1. Assignment (Term Paper)
 
-We will upload the assignment on **January 6**.\
-The submission deadline is **January 27, 16:00**.
+We will upload the assignment on **January 6, 2026**.\
+The submission deadline is **January 26, 2026** at **16:00**.
 
 
 *Please read the following guidelines for the term paper:*
