@@ -16,7 +16,7 @@ The last **lecture** will take place on **December 15, 2025**.
 
 The last **tutorial** will take place on **January 06, 2026**.
 
-The **term paper** will be assigned on **January 05, 2026** and the submission deadline is **January 26** at **16:00**.
+The **term paper** will be assigned on **January 06, 2026** and the submission deadline is **January 26** at **16:00**.
 
 The **oral examination** will take place on **February 2 and 3, 2026**.
 
