@@ -31,6 +31,8 @@ On October 20, a tutorial will be held instead of a lecture. The tutorial on Oct
     - Dataset: [prediction.csv](./data/prediction.csv) 
     - Dataset: [predictiontest.csv](./data/predictiontest.csv)
 * [Tutorial 8](./tutorial/tutorial-8/tutorial_8.ipynb) 
+* [Tutorial 9](./tutorial/tutorial-9/tutorial_9.ipynb) 
+    - Dataset: [classification_1.csv](./data/classification_1.csv) 
 
 ### Solutions 
 * [Solution Tutorial 1](./tutorial/tutorial-1/tutorial_1_solution.ipynb)
@@ -40,6 +42,7 @@ On October 20, a tutorial will be held instead of a lecture. The tutorial on Oct
 * [Solution Tutorial 5](./tutorial/tutorial-5/tutorial_5_solution.ipynb)
 * [Solution Tutorial 6](./tutorial/tutorial-6/tutorial_6_solution.ipynb)
 * [Solution Tutorial 7](./tutorial/tutorial-7/tutorial_7_solution.ipynb)
+* [Solution Tutorial 7](./tutorial/tutorial-8/tutorial_8_solution.ipynb)
 
 
 ### Extra Exercises
