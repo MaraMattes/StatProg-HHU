@@ -4,7 +4,7 @@ Please read the following guidelines for the term paper:
 
 * The term paper is to be submitted by teams of 3 students. Send your term paper (`.ipynb`) to <mattes@dice.hhu.de>; **Subject: "MW122 Term Paper"**
 
-* The submission deadline is **January 26, 16:00**. 
+* The submission deadline is **January 26, 2026** at **16:00**. 
 
 * Each group is required to submit an independent solution and collaboration between groups is not allowed.
 
@@ -29,4 +29,4 @@ Please read the following guidelines for the term paper:
 
 # Term Paper and Data Sets 
 
-Zip-Folder: Term paper upload (January 5, 2026)
+Zip-Folder: Term paper upload (January 6, 2026)
