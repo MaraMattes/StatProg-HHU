@@ -29,4 +29,4 @@ Please read the following guidelines for the term paper:
 
 # Term Paper and Data Sets 
 
-Zip-Folder: Term paper upload (January 6, 2026)
+Zip-Folder: [TermPaper_WiSe2526.zip](./TermPaper_WiSe2526.zip) 
