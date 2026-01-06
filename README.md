@@ -46,7 +46,7 @@ On October 20, a tutorial will be held instead of a lecture. The tutorial on Oct
 * [Solution Tutorial 7](./tutorial/tutorial-7/tutorial_7_solution.ipynb)
 * [Solution Tutorial 8](./tutorial/tutorial-8/tutorial_8_solution.ipynb)
 * [Solution Tutorial 9](./tutorial/tutorial-9/tutorial_9_solution.ipynb)
-
+* [Solution Tutorial 10](./tutorial/tutorial-10/tutorial_10_solution.ipynb)
 
 ### Extra Exercises
 This Notebook contains additional exercises on object-orientated programming. These exercises are optional but recommended for those who wish to deepen their understanding. The exercises will not be discussed in the tutorial sessions.
