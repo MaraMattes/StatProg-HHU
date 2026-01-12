@@ -30,3 +30,5 @@ Please read the following guidelines for the term paper:
 # Term Paper and Data Sets 
 
 Zip-Folder: [TermPaper_WiSe2526.zip](./TermPaper_WiSe2526.zip) 
+
+**Correction**: In Exercise 4.2, part (b), the formula for the RMSE is missing the factor 1/n. The correct definition of the RMSE is $$\sqrt{\frac{1}{n}\sum_{i=1}^n(y_i-\hat{y_i})^2}$$.

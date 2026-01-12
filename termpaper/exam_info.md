@@ -9,7 +9,7 @@ The final grade is composed of two parts:
     - Dates: **February 2 and 3, 2026**
 
 Please book your 60 minute slot per group until **January 23, 2026** here:\
-[link will follow]
+[link to the booking system](https://terminplaner6.dfn.de/de/b/6f76fa4e084ee7d1b37a7132619f79fe-1450306)
 
 Please note: Per group, only one time slot should be booked. The three individual oral exams will take place consecutively within the 60 minute slot.
 
